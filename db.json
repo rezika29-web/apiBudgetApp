@@ -1,0 +1,7 @@
+{
+    "onboard":[
+        {"id":1,"title":"Manage Your Budgeting","desc" :"Easy manage your income and expense into category.","image":"https://ibb.co/HnyvHGs"}
+        {"id":2,"title":"Track Your Expense","desc" :"Easy tracking and find your most spending at.","image":"https://ibb.co/cgZF0Rf"}
+        {"id":3,"title":"Set Your Goal","desc" :"You can set goals for your income and expense.","image":"https://ibb.co/VC1b1cs"}
+    ],
+}
