@@ -3,5 +3,17 @@
         {"id":1,"title":"Manage Your Budgeting","desc" :"Easy manage your income and expense into category.","image":"https://i.ibb.co/6gShWDx/onboard1.png"},
         {"id":2,"title":"Track Your Expense","desc" :"Easy tracking and find your most spending at.","image":"https://i.ibb.co/QbTNLhS/onboard3.png"},
         {"id":3,"title":"Set Your Goal","desc" :"You can set goals for your income and expense.","image":"https://i.ibb.co/kD7z7st/onboard2.png"}
-    ]
+    ],
+    "category":[
+        {"id":1, "name":"Food","type":"expanse","limit" :250},
+        {"id":2, "name":"Royalti","type":"income","limit" :""},
+        {"id":3, "name":"Internet","type":"expanse","limit" :250},
+        {"id":4, "name":"Book","type":"expanse","limit" :250},
+        {"id":5, "name":"Gas","type":"expanse","limit" :1000000}
+    ],
+    "transaction":[
+        {"id":1, "amount":50000, "categoryId": 1, "date" : "Sat, 08 July 2023"},
+        {"id":2, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023"},
+        {"id":3, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023"},
+    ],
 }
