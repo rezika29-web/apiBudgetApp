@@ -21,5 +21,5 @@
         {"id":3, "name":"Internet","type":"expanse","limit" :250,"image":"https://i.ibb.co/brzxPKd/signal.png"},
         {"id":4, "name":"Book","type":"expanse","limit" :250,"image":"https://i.ibb.co/HYLNqPC/buku.png"},
         {"id":5, "name":"Gas","type":"expanse","limit" :1000000,"image":"https://i.ibb.co/YNvLjjD/gas-icon-25.png"}
-    ],
+    ]
 }
