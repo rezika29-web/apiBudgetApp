@@ -5,15 +5,15 @@
         {"id":3,"title":"Set Your Goal","desc" :"You can set goals for your income and expense.","image":"https://i.ibb.co/kD7z7st/onboard2.png"}
     ],
     "category":[
-        {"id":1, "name":"Food","type":"expanse","limit" :250},
-        {"id":2, "name":"Royalti","type":"income","limit" :""},
-        {"id":3, "name":"Internet","type":"expanse","limit" :250},
-        {"id":4, "name":"Book","type":"expanse","limit" :250},
-        {"id":5, "name":"Gas","type":"expanse","limit" :1000000}
+        {"id":1, "name":"Food","type":"expanse","limit" :250,"image":"https://i.ibb.co/zsVL5db/daging.png"},
+        {"id":2, "name":"Royalti","type":"income","limit" :"","image":"https://i.ibb.co/J26mvSH/uang.png"},
+        {"id":3, "name":"Internet","type":"expanse","limit" :250,"image":"https://i.ibb.co/brzxPKd/signal.png"},
+        {"id":4, "name":"Book","type":"expanse","limit" :250,"image":"https://i.ibb.co/HYLNqPC/buku.png"},
+        {"id":5, "name":"Gas","type":"expanse","limit" :1000000,"image":"https://i.ibb.co/YNvLjjD/gas-icon-25.png"}
     ],
     "transaction":[
         {"id":1, "amount":50000, "categoryId": 1, "date" : "Sat, 08 July 2023"},
         {"id":2, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023"},
-        {"id":3, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023"},
-    ],
+        {"id":3, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023"}
+    ]
 }
