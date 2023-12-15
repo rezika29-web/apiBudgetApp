@@ -18,8 +18,8 @@
     ],
     "budgetcontrol":[
         {"id":1, "name":"Food","type":"expanse","limit" :"250.000","image":"https://i.ibb.co/zsVL5db/daging.png"},
-        {"id":3, "name":"Internet","type":"expanse","limit" :"250.000","image":"https://i.ibb.co/brzxPKd/signal.png"},
-        {"id":4, "name":"Book","type":"expanse","limit" :"250.000","image":"https://i.ibb.co/HYLNqPC/buku.png"},
-        {"id":5, "name":"Gas","type":"expanse","limit" :"1.000.000","image":"https://i.ibb.co/YNvLjjD/gas-icon-25.png"}
+        {"id":2, "name":"Internet","type":"expanse","limit" :"250.000","image":"https://i.ibb.co/brzxPKd/signal.png"},
+        {"id":3, "name":"Book","type":"expanse","limit" :"250.000","image":"https://i.ibb.co/HYLNqPC/buku.png"},
+        {"id":4, "name":"Gas","type":"expanse","limit" :"1.000.000","image":"https://i.ibb.co/YNvLjjD/gas-icon-25.png"}
     ]
 }
