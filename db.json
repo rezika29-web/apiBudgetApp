@@ -12,9 +12,12 @@
         {"id":5, "name":"Gas","type":"expanse","limit" :"1.000.000","image":"https://i.ibb.co/YNvLjjD/gas-icon-25.png"}
     ],
     "transaction":[
-        {"id":1, "amount":50000, "categoryId": 1, "date" : "Sat, 08 July 2023"},
-        {"id":2, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023"},
-        {"id":3, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023"}
+        {"id":1, "amount":50000, "categoryId": 1, "date" : "Sat, 08 July 2023", "name":"Food","image":"https://i.ibb.co/zsVL5db/daging.png"},
+        {"id":2, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023", "name":"Internet","image":"https://i.ibb.co/brzxPKd/signal.png"},
+        {"id":3, "amount":50000, "categoryId": 3, "date" : "Sat, 08 July 2023", "name":"Internet","image":"https://i.ibb.co/brzxPKd/signal.png"},
+        {"id":4, "amount":50000, "categoryId": 2, "date" : "Sat, 08 July 2023", "name":"Royalti","image":"https://i.ibb.co/J26mvSH/uang.png"},
+        {"id":5, "amount":50000, "categoryId": 4, "date" : "Sat, 08 July 2023", "name":"Book","image":"https://i.ibb.co/HYLNqPC/buku.png"},
+        {"id":6, "amount":50000, "categoryId": 5, "date" : "Sat, 08 July 2023", "name":"Gas","image":"https://i.ibb.co/YNvLjjD/gas-icon-25.png"}
     ],
     "budgetcontrol":[
         {"id":1, "name":"Food","type":"expanse","limit" :"250.000","image":"https://i.ibb.co/zsVL5db/daging.png"},
